@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Spotify cache
+.cache
+
+# Output data
+out/
+
+# Bytecode
+__pycache__/
+
+# OS and IDE
+.DS_Store
+.vscode/
